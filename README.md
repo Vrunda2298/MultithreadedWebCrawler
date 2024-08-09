@@ -5,7 +5,7 @@
 
 ## CONFIGURATION REQUIREMENT
 * python 3.5 and up
-* Unzip the file assignment1_part3.zip to get the python executable files
+* Run the python files according to the steps given below
 
 ## COMPILATION AND EXECUTION
 Following Python Packages are reuired :
