@@ -8,7 +8,7 @@
 * Run the python files according to the steps given below
 
 ## COMPILATION AND EXECUTION
-Following Python Packages are reuired :
+Following Python Packages are required :
 * BeautifulSoup
 * Requests
 * Queue
