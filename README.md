@@ -2,7 +2,6 @@
 
 # Data Communication Assignment #
 
-## MULTITHREADED WEB CRAWLER
 
 ## CONFIGURATION REQUIREMENT
 * python 3.5 and up
